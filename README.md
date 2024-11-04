@@ -21,7 +21,7 @@ TinyUrl is a URL shortening and management service designed to create compact, e
 
 To run TinyUrl locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository: `git clone https://github.com/rivki-beker/tinyURL.git`
 2. Navigate to the project directory: `cd TinyUrl`
 3. Install dependencies: `npm install`
 4. Set up MongoDB locally or configure connection to a remote MongoDB instance.
